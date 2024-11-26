@@ -1,0 +1,7 @@
+brightness_enhancment: 50
+#↑范围0~100
+brightness_reduction: -50
+#↑范围-100~0
+auto_open_folder: True
+auto_quit: False
+debug_mode: False
